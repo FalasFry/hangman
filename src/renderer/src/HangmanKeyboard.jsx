@@ -26,10 +26,7 @@ const KEYS = [
     "w",
     "x",
     "y",
-    "z",
-    "å",
-    "ä",
-    "ö"
+    "z"
 ];
 
 function HangmanKeyboard({activeLetters, inactiveLetters, addGuessedLetter, disabled = false}){
